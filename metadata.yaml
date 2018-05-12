@@ -1,0 +1,38 @@
+_repo: The-History-of-the-Nineteenth-Century-in-Caricature_37603
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37603-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Maurice, Arthur Bartlett
+    alias: Maurice, Arthur B.
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '6870'
+    url: http://www.gutenberg.org/2009/agents/6870
+  - agent_name: Cooper, Frederic Taber
+    alias: Cooper, Fridericus Taber
+    birthdate: 1864
+    deathdate: 1937
+    gutenberg_agent_id: '1245'
+    url: http://www.gutenberg.org/2009/agents/1245
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Taber_Cooper
+description: ''
+gutenberg_issued: '2011-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37603'
+  lccn: '2010479022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Caricature -- History'
+- !lcsh 'Nineteenth century -- Caricatures and cartoons'
+- !lcc 'D'
+- !lcsh 'History, Modern -- 19th century -- Caricatures and cartoons'
+- !lcc 'NC'
+title: The History of the Nineteenth Century in Caricature
+url: http://www.gutenberg.org/ebooks/37603
